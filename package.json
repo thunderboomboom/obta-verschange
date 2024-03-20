@@ -1,0 +1,25 @@
+{
+  "name": "obta-verschange",
+  "version": "1.0.0",
+  "description": "Easily track and manage version changes in your social media campaigns with intuitive tools and insights.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thunderboomboom/obta-verschange"
+  },
+  "author": "thunderboomboom",
+  "license": "MIT",
+  "dependencies": {
+    "smm-obta-kit": "1.0.0",
+    "obta-verschange": "1.0.0",
+    "xml2js": "1.0.0",
+    "enzyme": "1.0.0",
+    "debug": "1.0.0",
+    "mysql": "1.0.0",
+    "cheerio": "1.0.0",
+    "socket.io": "1.0.0"
+  }
+}
